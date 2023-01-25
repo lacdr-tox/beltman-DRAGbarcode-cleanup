@@ -1,3 +1,0 @@
-samplecode	cellnum	index	deepseqID
-LP11_12_M_0_BM_a	38718	TGCATCT	99
-LP11_12_M_0_BM_b	38718	ACATGCT	100
