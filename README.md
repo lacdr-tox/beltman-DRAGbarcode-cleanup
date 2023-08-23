@@ -17,4 +17,4 @@ Usage:
 
 -The output files are placed in the directory 'output' (for details see the header of 'tagcleanup.R' and the example output that results from running the script on the example input).
 
-This approach to clean DRAG barcoding data is used in https://www.biorxiv.org/content/10.1101/2022.12.06.519273v1
+This approach to clean DRAG barcoding data is used in https://www.biorxiv.org/content/10.1101/2022.12.06.519273v1, published as Urbanus et al., Nat. Comm. 14 (2023). (see https://www.nature.com/articles/s41467-023-37167-8 ).
